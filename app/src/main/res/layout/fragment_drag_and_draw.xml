@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bignerdranch.android.draganddraw.BoxDrawingView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+/>
+<!---
+for custom classes and other classes that live outside of android.view and android.widget,
+you must always specify the fully qualified class name.
+-->
